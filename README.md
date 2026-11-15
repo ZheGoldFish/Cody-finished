@@ -7,4 +7,4 @@ the end.
 The end to what ?
 To everything.
 To all there is.
-But, is there reall an escape from this hellhole ?
+But, is there really an escape from this hellhole ?
