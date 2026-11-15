@@ -1,0 +1,7 @@
+git clone [URL sur projet] => récupère tout le projet et le met dans un sous-dossier qui porte le nom du projet
+cd mon-projt => se rend dans le dossier  en question
+git status => Voir l'état des fichiers dans le projet, modifications, nouveaux, suppressions etc
+git pull => Récupère tout ce qui a été modifié sur le serveur distant, à faire impérativemet avant un git push
+git add -A => Mettre tous les fichiers ajoutés modifiés et supprimés dans la liste du "commit"
+git commit -m "Mon message de commit" => A faire souvent, sauve l'état du projet basé sur le dernier git add -A
+git push => Après un commit, envoie tout sur le serveur git
